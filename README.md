@@ -15,4 +15,4 @@ Abre `index.html` en el navegador. La dirección de la API se configura en la va
 
 ---
 
-<sub>⚽ Parte del portafolio de **Paul Velastegui** · [paul-23ve.github.io](https://paul-23ve.github.io) · [GitHub](https://github.com/PAUL-23VE)</sub>
+<sub>Parte del portafolio de **Paul Velastegui** · [paul-23ve.github.io](https://paul-23ve.github.io) · [GitHub](https://github.com/PAUL-23VE)</sub>
